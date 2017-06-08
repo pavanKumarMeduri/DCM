@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="0" it="0" lt="0" ts="1496426517795" s="false" lb="HTTP Request" rc="Non HTTP response code: java.net.URISyntaxException" rm="Non HTTP response message: Malformed IPv6 address at index 9: https://[172.17.11.158:1467]/GetCitiesByCountry" tn="Thread Group 1-1" dt="text" by="1169" ng="1" na="1"/>
+
+<httpSample t="0" it="0" lt="0" ts="1496426548319" s="false" lb="HTTP Request" rc="Non HTTP response code: java.net.URISyntaxException" rm="Non HTTP response message: Malformed IPv6 address at index 8: http://[172.17.11.158:1467]/GetCitiesByCountry" tn="Thread Group 1-1" dt="text" by="1168" ng="1" na="1"/>
+
+<httpSample t="0" it="0" lt="0" ts="1496426599438" s="false" lb="HTTP Request" rc="Non HTTP response code: java.net.URISyntaxException" rm="Non HTTP response message: Malformed IPv6 address at index 8: http://[172.17.11.158:1467]/GetCitiesByCountry" tn="Thread Group 1-1" dt="text" by="1168" ng="1" na="1"/>
+
+<httpSample t="0" it="0" lt="0" ts="1496426626790" s="false" lb="HTTP Request" rc="Non HTTP response code: java.net.URISyntaxException" rm="Non HTTP response message: Malformed IPv6 address at index 8: http://[172.17.11.158:1467]/GetCitiesByCountry" tn="Thread Group 1-1" dt="text" by="1168" ng="1" na="1"/>
+
+<httpSample t="1189" it="0" lt="1188" ts="1496426658677" s="false" lb="HTTP Request" rc="500" rm="Internal Server Error" tn="Thread Group 1-1" dt="text" by="368" ng="1" na="1"/>
+
+<httpSample t="790" it="0" lt="790" ts="1496426686398" s="false" lb="HTTP Request" rc="500" rm="Internal Server Error" tn="Thread Group 1-1" dt="text" by="1230" ng="1" na="1"/>
+
+<httpSample t="394" it="0" lt="391" ts="1496426767349" s="false" lb="HTTP Request" rc="500" rm="Internal Server Error" tn="Thread Group 1-1" dt="text" by="368" ng="1" na="1"/>
+
+<httpSample t="504" it="0" lt="460" ts="1496426794871" s="false" lb="HTTP Request" rc="500" rm="Internal Server Error" tn="Thread Group 1-1" dt="text" by="1230" ng="1" na="1"/>
+
+<httpSample t="1992" it="0" lt="1985" ts="1496426912138" s="false" lb="HTTP Request" rc="500" rm="Internal Server Error" tn="Thread Group 1-1" dt="text" by="1230" ng="1" na="1"/>
+
+<httpSample t="468" it="0" lt="450" ts="1496426951664" s="false" lb="HTTP Request" rc="500" rm="Internal Server Error" tn="Thread Group 1-1" dt="text" by="1230" ng="1" na="1"/>
+
+<httpSample t="1858" it="0" lt="1858" ts="1496427311286" s="false" lb="HTTP Request" rc="500" rm="Internal Server Error" tn="Thread Group 1-1" dt="text" by="368" ng="1" na="1"/>
+<httpSample t="1210" it="0" lt="1209" ts="1496427313146" s="false" lb="HTTP Request" rc="500" rm="Internal Server Error" tn="Thread Group 1-1" dt="text" by="368" ng="1" na="1"/>
+
+<httpSample t="860" it="0" lt="859" ts="1496427353021" s="false" lb="HTTP Request" rc="500" rm="Internal Server Error" tn="Thread Group 1-1" dt="text" by="368" ng="1" na="1"/>
+
+<httpSample t="707" it="0" lt="706" ts="1496427361419" s="false" lb="HTTP Request" rc="500" rm="Internal Server Error" tn="Thread Group 1-1" dt="text" by="368" ng="1" na="1"/>
+
+<httpSample t="338" it="0" lt="338" ts="1496427400804" s="false" lb="HTTP Request" rc="500" rm="Internal Server Error" tn="Thread Group 1-1" dt="text" by="368" ng="1" na="1"/>
+
+<httpSample t="1024" it="0" lt="1023" ts="1496428093651" s="false" lb="HTTP Request" rc="500" rm="Error" tn="Thread Group 1-1" dt="text" by="330" ng="1" na="1"/>
+
+<httpSample t="978" it="0" lt="977" ts="1496428155293" s="false" lb="HTTP Request" rc="500" rm="Internal Server Error" tn="Thread Group 1-1" dt="text" by="368" ng="1" na="1"/>
+
+<httpSample t="21412" it="0" lt="21411" ts="1496428521204" s="false" lb="HTTP Request" rc="500" rm="Internal Server Error" tn="Thread Group 1-1" dt="text" by="368" ng="1" na="1"/>
+
+<httpSample t="14" it="0" lt="13" ts="1496428558580" s="false" lb="HTTP Request" rc="500" rm="Error" tn="Thread Group 1-1" dt="text" by="330" ng="1" na="1"/>
+
+<httpSample t="0" it="0" lt="0" ts="1496429128773" s="false" lb="HTTP Request" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: 172.17.11.158:1467 " tn="Thread Group 1-1" dt="text" by="1320" ng="1" na="1"/>
+
+<httpSample t="15" it="0" lt="15" ts="1496429161213" s="false" lb="HTTP Request" rc="500" rm="Error" tn="Thread Group 1-1" dt="text" by="330" ng="1" na="1"/>
+
+<httpSample t="67" it="0" lt="0" ts="1496429598961" s="false" lb="HTTP Request" rc="Non HTTP response code: java.nio.charset.IllegalCharsetNameException" rm="Non HTTP response message: gzip,deflate " tn="Thread Group 1-1" dt="text" by="1257" ng="1" na="1"/>
+
+<httpSample t="43" it="0" lt="42" ts="1496429691454" s="false" lb="HTTP Request" rc="500" rm="Error" tn="Thread Group 1-1" dt="text" by="330" ng="1" na="1"/>
+
+<httpSample t="3848" it="0" lt="3847" ts="1496432018533" s="false" lb="HTTP Request" rc="500" rm="Error" tn="Thread Group 1-1" dt="text" by="330" ng="1" na="1"/>
+
+<httpSample t="3746" it="0" lt="3666" ts="1496432526113" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="183848" ng="1" na="1"/>
+
+<httpSample t="3062" it="0" lt="3015" ts="1496433191765" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="183848" ng="1" na="1"/>
+
+</testResults>
