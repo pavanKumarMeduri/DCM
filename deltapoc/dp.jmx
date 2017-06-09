@@ -57,7 +57,7 @@
               <idleTime>true</idleTime>
             </value>
           </objProp>
-          <stringProp name="filename">C:\Users\miracle\Desktop\delta poc\dp.jtl</stringProp>
+          <stringProp name="filename">C:\Users\miracle\.jenkins\workspace\DataPower\deltapoc\dp.jtl</stringProp>
         </ResultCollector>
         <hashTree/>
         <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="HTTP Request" enabled="true">
